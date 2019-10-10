@@ -67,8 +67,19 @@ h1
     font-family: raleway;
     color: #2196f3;
  }
+
+.center {
+    width:40%;
+    margin: 0 auto;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;*/
+}
+
  h2 {
-     text-align: center;
      font-family: raleway;
      color: #2196f3;
  }
+ img {
+    border-radius: 50%;
+  }
