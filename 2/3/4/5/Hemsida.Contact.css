@@ -76,10 +76,16 @@ h1
     justify-content: center;*/
 }
 
- p {
+ h2 {
      font-family: raleway;
-     text-align: center;
      color: #2196f3;
      font-size: 19px;
-     padding-top: 30px;
+     text-align: center;
  }
+p {
+    font-family: raleway;
+    color:#2196f3;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 20px;
+}
